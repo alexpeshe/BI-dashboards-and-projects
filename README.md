@@ -1,6 +1,6 @@
 # BI dashboards & Projects
 
-# This repository contains all books, cheat sheets, general learning materials, Tableau & Power BI workbooks and links.
+# This repository contains all books, cheat sheets, general learning materials, Tableau Public Dashboards & Power BI workbooks and links.
 
 # Workbook Files
 
