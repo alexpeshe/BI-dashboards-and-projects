@@ -51,7 +51,9 @@ README.md: A markdown file providing an overview of the project, setup instructi
 
 # Miscellaneous
 
-License file
+License file:
+
+Not Aplicable
 
 # Bonus
 
