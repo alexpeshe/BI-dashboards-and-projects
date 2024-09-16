@@ -37,9 +37,8 @@ Volcanic Activity on Earth Overview Interactive Dashboard: https://public.tablea
 Earthquake Activity on Earth Overview Interactive Dashboard: https://public.tableau.com/app/profile/aleksandar.peshev/viz/EarthquakeActivityonEarthOverviewInteractiveDashboard/Dashboard1
 
 
-- Power BI:
+# Power BI:
 
-If applicable
 
 
 # Resources
