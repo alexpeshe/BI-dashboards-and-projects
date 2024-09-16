@@ -2,6 +2,7 @@
 
 # This repository contains all books, cheat sheets, general learning materials, Tableau Public Dashboards & Power BI workbooks and links.
 
+
 # Workbook Files
 
 - The repository would contain all workbooks for:
@@ -12,27 +13,34 @@ Power BI dahsboards
 
 # Links:
 
+
 # Tableau Public Gallery:
 
 Link: https://public.tableau.com/app/profile/aleksandar.peshev/vizzes 
 
 # Tableau Dashboards:
 
+
 - Business Dashboards
 
 HR Analytics: https://public.tableau.com/app/profile/aleksandar.peshev/viz/HRAnalyticsBusinessDashboardUpdateVOTD/AttritionStats 
+
 Dental Pharma Interactive Analytics Multi Level Project Management Dashboard: https://public.tableau.com/app/profile/aleksandar.peshev/viz/DentalPharmaInteractiveAnalyticsDashboardOverview/ProjectOverview
+
 
 - Infographic Dashboards
 
-
 FIFA's World Cup Infographic Dashboard: https://public.tableau.com/app/profile/aleksandar.peshev/viz/FIFAsWorldCupInfographicDashboardOverviewVOTD/GeneralOverview
+
 Volcanic Activity on Earth Overview Interactive Dashboard: https://public.tableau.com/app/profile/aleksandar.peshev/viz/VolcanicActivityonEarthOverviewInteractiveDashboard/Dashboard1_2GeographicOverview
+
 Earthquake Activity on Earth Overview Interactive Dashboard: https://public.tableau.com/app/profile/aleksandar.peshev/viz/EarthquakeActivityonEarthOverviewInteractiveDashboard/Dashboard1
+
 
 - Power BI:
 
 If applicable
+
 
 # Resources
 
