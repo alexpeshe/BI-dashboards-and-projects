@@ -19,7 +19,7 @@ Power BI dahsboards
 
 Link: https://public.tableau.com/app/profile/aleksandar.peshev/vizzes 
 
-# Tableau Dashboards:
+# Tableau BI Portfolio Dashboards:
 
 
 - Business Dashboards
