@@ -62,7 +62,7 @@ README.md: A markdown file providing an overview of the project, setup instructi
 
 License file:
 
-Not Aplicable
+MIT License
 
 
 # Bonus
