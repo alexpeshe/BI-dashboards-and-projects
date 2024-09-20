@@ -40,21 +40,30 @@ Earthquake Activity on Earth Overview Interactive Dashboard: https://public.tabl
 
 # Power BI:
 
+Coming Soon
+
+
+# Looker (foremerly Google Data Studio):
+
+Coming soon
 
 
 # Resources
 
 PDF files, such as research papers, books, or project documentation
 
+
 # Documentation
 
 README.md: A markdown file providing an overview of the project, setup instructions, and usage guidelines Additional markdown files explaining specific aspects of the project
+
 
 # Miscellaneous
 
 License file:
 
 Not Aplicable
+
 
 # Bonus
 
